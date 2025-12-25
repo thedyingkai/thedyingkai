@@ -15,13 +15,10 @@ I'm currently focusing on participating in algorithm competitions (XCPC) and lea
 
 You might also find me on these platforms:
 
-- ![Codeforces](codeforces.com/profile/thedyingkai_)
-
-- ![洛谷 \Luogu](www.luogu.com.cn/user/1450404)
-
-- ![Bilibili](https://space.bilibili.com/646304256)
-
-- ![知乎 \Zhihu](https://www.zhihu.com/people/thedyingkai-)
+[![Codeforces](https://img.shields.io/badge/Codeforces-thedyingkai_-66ccff?style=for-the-badge&logo=codeforces&logoColor=white&color=gray&labelColor=66ccff)](https://codeforces.com/profile/thedyingkai_)
+[![Luogu](https://img.shields.io/badge/Luogu-thedyingkai-66ccff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5LjI1IDIuMjVINC43NUMzLjIzIDIuMjUgMiAyLjIzIDIgNC43NXYxNC41YzAgMi41MiAxLjIzIDQuNzUgMy4yNSA0Ljc1aDE0LjVjMi4wMiAwIDMuMjUtMi4yMyAzLjI1LTQuNzVWNC43NWMwLTIuNTItMS4yMy00Ljc1LTMuMjUtNC43NVpNMTMuNSA3LjVjLjgyIDAgMS41LjY4IDEuNSAxLjVzLS42OCAxLjUtMS41IDEuNS0xLjUtLjY4LTEuNS0xLjUuNjgtMS41IDE.uNS0xLjVabS00IDBjLjgyIDAgMS41LjY4IDEuNSAxLjVzLS42OCAxLjUtMS41IDEuNS0xLjUtLjY4LTEuNS0xLjUuNjgtMS41IDEuNS0xLjVaIiBmaWxsPSIjZmZmZmZmIi8+Cjwvc3ZnPgo=&logoColor=white&color=gray&labelColor=66ccff)](https://www.luogu.com.cn/user/1450404)
+[![Bilibili](https://img.shields.io/badge/Bilibili-thedyingkai-66ccff?style=for-the-badge&logo=bilibili&logoColor=white&color=gray&labelColor=66ccff)](https://space.bilibili.com/646304256)
+[![Zhihu](https://img.shields.io/badge/Zhihu-thedyingkai_-66ccff?style=for-the-badge&logo=zhihu&logoColor=white&color=gray&labelColor=66ccff)](https://www.zhihu.com/people/thedyingkai-)
 
 ## 我的技术栈 \My Skill Set
 
@@ -37,10 +34,10 @@ You might also find me on these platforms:
 
 ## 联系方式 \Connect with me  
 
-- 网站 \Website：![TDK 的小窝喵](blog.thedyingkai.cn)
-- 邮箱 \Email：![1474059695@qq.com](mailto:1474039695@qq.com)
-- QQ ：1474059695
-- QQ 群 \QQ Group：876297583
+[![Website](https://img.shields.io/badge/Website-TDK的小窝喵-66ccff?style=for-the-badge&logo=blogger&logoColor=white&color=gray&labelColor=66ccff)](https://blog.thedyingkai.cn)
+[![Email](https://img.shields.io/badge/Email-1474059695@qq.com-66ccff?style=for-the-badge&logo=gmail&logoColor=white&color=gray&labelColor=66ccff)](mailto:1474059695@qq.com)
+[![QQ](https://img.shields.io/badge/QQ-1474059695-66ccff?style=for-the-badge&logo=tencentqq&logoColor=white&color=gray&labelColor=66ccff)](http://wpa.qq.com/msgrd?v=3&uin=1474059695&site=qq&menu=yes)
+[![QQ Group](https://img.shields.io/badge/QQ%20Group-876297583-66ccff?style=for-the-badge&logo=tencentqq&logoColor=white&color=gray&labelColor=66ccff)](https://jq.qq.com/?_wv=1027&k=5Kc5c5c)
 
 ## Github Stats  
 
