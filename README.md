@@ -43,4 +43,4 @@
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedyingkai&show_icons=true" align="center" /></div><br/>  
+![thedyingkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedyingkai&show_icons=true)
