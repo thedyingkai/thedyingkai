@@ -1,5 +1,14 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=72&pause=1000&color=66CCFF&center=true&vCenter=true&random=true&width=800&height=150&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D" alt="Typing SVG" /></a></div>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=72&pause=1000&color=EE0000&center=true&vCenter=true&random=true&width=800&height=150&lines=%E4%B9%90%E6%AD%A3%E5%8F%B8%E7%99%BE%E6%9B%B2%EF%BC%8C%E7%BB%AB%E5%8A%A8%E4%B8%87%E5%B9%B4%E7%BA%A2" alt="Typing SVG" /></a></div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=72&pause=1000&color=66CCFF&center=true&vCenter=true&random=true&width=800&height=150&lines=%E5%8D%8E%E9%A3%8E%E5%A4%8F%E9%9F%B5%EF%BC%8C%E6%B4%9B%E6%B0%B4%E5%A4%A9%E4%BE%9D" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=72&pause=1000&color=EE0000&center=true&vCenter=true&random=true&width=800&height=150&lines=%E4%B9%90%E6%AD%A3%E5%8F%B8%E7%99%BE%E6%9B%B2%EF%BC%8C%E7%BB%AB%E5%8A%A8%E4%B8%87%E5%B9%B4%E7%BA%A2" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 关于我 \About Me
 
@@ -55,7 +64,7 @@ You might also find me on these platforms:
       <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=thedyingkai&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
     </th>
     <th>
-      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=thedyingkai&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=thedyingkai&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=12&hide=CMake" align="center" /> 
     </th>
   </tr>
 </table>
